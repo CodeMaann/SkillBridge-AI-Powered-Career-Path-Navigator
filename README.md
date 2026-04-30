@@ -97,3 +97,6 @@ All AI calls are **server-side** — API key is never exposed to the browser[cit
 - **Database:** PostgreSQL + Prisma[cite: 6]
 - **AI:** Google Gemini 
 - **UI:** React 19, Tailwind CSS, shadcn/ui, Motion[cite: 6]
+
+## Live Website 
+# Open - https://skill-bridge-ai-powered-career-path.vercel.app/
